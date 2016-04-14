@@ -5,8 +5,6 @@
 * For Credit Card Transactions
 * Written 09/20/2014
 * ©Merchant e-Solutions 2014
-*
-* @author nrichardson
 * 
 */
 
